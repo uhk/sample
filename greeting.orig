@@ -1,0 +1,8 @@
+Hello, world!
+Edited locally
+repo1
+<<<<<<< HEAD
+master
+=======
+topic13
+>>>>>>> topic13
